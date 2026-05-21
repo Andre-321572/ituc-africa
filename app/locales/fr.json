@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "about": "À propos",
+    "about_org": "Notre Organisation",
+    "about_affiliates": "Les Affiliés",
+    "about_values": "Nos Valeurs",
+    "actions": "Nos Actions",
+    "actions_activities": "Activités",
+    "actions_programs": "Programmes",
+    "actions_campaigns": "Campagnes",
+    "actions_projects": "Projets",
+    "resources": "Ressources",
+    "resources_news": "Actualités",
+    "resources_docs": "Documents",
+    "resources_media": "Multimédia",
+    "alrei": "ALREI",
+    "support": "NOUS SOUTENIR",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Créer un monde meilleur pour les travailleurs en Afrique et au-delà",
+    "mission_badge": "Notre Mission",
+    "panafrican_badge": "Solidarité Panafricaine",
+    "title": "ENSEMBLE, DÉFENDONS\nLES DROITS DES\nTRAVAILLEURS AFRICAINS",
+    "subtitle": "18 millions de membres dans 52 pays africains luttent chaque jour pour la justice sociale et le travail décent.",
+    "cta_discover": "DÉCOUVRIR NOS ACTIONS",
+    "cta_join": "Rejoignez le mouvement",
+    "cta_report": "Notre rapport annuel →"
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "legal": "Mentions Légales",
+    "privacy": "Confidentialité",
+    "description": "Organisation Régionale Africaine de la Confédération Syndicale Internationale. Représentant 18 millions de membres dans 52 pays."
+  },
+  "mission": {
+    "title": "L'ORGANISATION RÉGIONALE AFRICAINE DE LA CSI",
+    "text1": "La CSI-Afrique est une organisation syndicale panafricaine créée en novembre 2007, issue de la fusion de l'ICFTU-Afro et de l'OATUU. Elle représente 107 centres syndicaux affiliés dans 52 pays africains, avec 18 millions de membres déclarés.",
+    "text2": "Notre mission est de représenter les travailleurs en Afrique à travers l'unité, le plaidoyer et le renforcement des capacités, pour atteindre le travail décent et l'égalité pour la justice sociale.",
+    "cta_more": "En savoir plus sur notre organisation"
+  },
+  "impact": {
+    "badge": "Notre Couverture Continentale",
+    "stats_title": "CSI-AFRIQUE EN CHIFFRES",
+    "stats_subtitle": "Un réseau continental au service des travailleurs africains.",
+    "stats": {
+      "members": "MEMBRES DÉCLARÉS",
+      "countries": "PAYS AFRICAINS",
+      "centers": "CENTRES SYNDICAUX"
+    },
+    "map_title": "NOTRE PRÉSENCE EN AFRIQUE",
+    "map_subtitle": "Active dans 52 pays, de Dakar à Nairobi, du Caire à Johannesburg."
+  },
+  "programmes": {
+    "structural": "Transformation structurelle",
+    "gender": "Égalité de genre",
+    "rights": "Droits humains",
+    "climate": "Changement climatique",
+    "youth": "Travail des jeunes",
+    "unity": "Unité syndicale",
+    "social": "Protection sociale",
+    "peace": "Paix et sécurité",
+    "health": "Santé au travail"
+  }
+}

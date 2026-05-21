@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "about": "About",
+    "about_org": "Our Organization",
+    "about_affiliates": "Affiliates",
+    "about_values": "Our Values",
+    "actions": "Our Actions",
+    "actions_activities": "Activities",
+    "actions_programs": "Programs",
+    "actions_campaigns": "Campaigns",
+    "actions_projects": "Projects",
+    "resources": "Resources",
+    "resources_news": "News",
+    "resources_docs": "Documents",
+    "resources_media": "Multimedia",
+    "alrei": "ALREI",
+    "support": "SUPPORT US",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Creating a better world for workers in Africa and beyond",
+    "mission_badge": "Our Mission",
+    "panafrican_badge": "Pan-African Solidarity",
+    "title": "TOGETHER, LET'S DEFEND\nTHE RIGHTS OF\nAFRICAN WORKERS",
+    "subtitle": "18 million members in 52 African countries fighting every day for social justice and decent work.",
+    "cta_discover": "DISCOVER OUR ACTIONS",
+    "cta_join": "Join the movement",
+    "cta_report": "Our annual report →"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "legal": "Legal Notice",
+    "privacy": "Privacy Policy",
+    "description": "African Regional Organisation of the International Trade Union Confederation. Representing 18 million members in 52 countries."
+  },
+  "mission": {
+    "title": "THE ITUC-AFRICA REGIONAL ORGANISATION",
+    "text1": "ITUC-Africa is a pan-African trade union organisation created in November 2007, from the merger of ICFTU-Afro and OATUU. It represents 107 affiliated trade union centres in 52 African countries, with 18 million declared members.",
+    "text2": "Our mission is to represent workers in Africa through unity, advocacy and capacity building, to achieve decent work and equality for social justice.",
+    "cta_more": "Learn more about our organization"
+  },
+  "impact": {
+    "badge": "Our Continental Coverage",
+    "stats_title": "ITUC-AFRICA IN FIGURES",
+    "stats_subtitle": "A continental network serving African workers.",
+    "stats": {
+      "members": "DECLARED MEMBERS",
+      "countries": "AFRICAN COUNTRIES",
+      "centers": "TRADE UNION CENTERS"
+    },
+    "map_title": "OUR PRESENCE IN AFRICA",
+    "map_subtitle": "Active in 52 countries, from Dakar to Nairobi, Cairo to Johannesburg."
+  },
+  "programmes": {
+    "structural": "Structural Transformation",
+    "gender": "Gender Equality",
+    "rights": "Human Rights",
+    "climate": "Climate Change",
+    "youth": "Youth Labour",
+    "unity": "Trade Union Unity",
+    "social": "Social Protection",
+    "peace": "Peace and Security",
+    "health": "Health and Safety"
+  }
+}
